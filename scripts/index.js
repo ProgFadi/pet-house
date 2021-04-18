@@ -6,5 +6,5 @@ function scrollDown()
 
 function goToLogin()
 {
-    window.location.href = "./login.";
+    window.location.href = "./login.php";
 }
