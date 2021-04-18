@@ -6,5 +6,6 @@ function scrollDown()
 
 function goToLogin()
 {
+    console.log("HEllo")
     window.location.href = "./login.php";
 }
